@@ -1,4 +1,5 @@
-﻿# -*-coding:Latin-1 -*
+﻿#!/usr/bin/python
+# -*-coding:Latin-1 -*
 import os
 from mainFunctions import *
 from cipher import *
